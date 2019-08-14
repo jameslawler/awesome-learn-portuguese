@@ -11,6 +11,7 @@ A awesome list of resources to help learn the Portuguese language from Portugal.
 
 # Training
 * [Quizlet](https://quizlet.com/) - A nice tool I have used for many years to build digital flashcards. You can create your own sets of cards or find existing ones from a very large collection. They have also a native Android / iOS apps so you can practice your sets when you have some free time. A nice feature is that they can generate games and tests based on your sets.
+* [Memrise](https://www.memrise.com/courses/english/portuguese-portugal-2/) - A web and mobile application for learning vocabulary, drilling grammar, and training your ear to recognize European Portuguese. It has 10 levels and starts at A1 and goes to about B1 by the end.
 
 # Courses
 * [Camões Instituto](https://www.instituto-camoes.pt/en/activity-camoes/what-we-do/learn-portuguese) - the official language institute from Portugal. They provide self-learning and other premium online courses so you can learn from home at your own page.
