@@ -1,5 +1,5 @@
 # Awesome learn Portuguese
-A awesome list of resources to help learn the Portuguese language from Portugal.
+An awesome list of resources to help learn the Portuguese language from Portugal.
 
 # Websites
 * [Portuguese from Portugal](https://www.portuguesefromportugal.com/) - [Disclaimer: I am a co-creator of this website and podcast]. Learn the Portuguese from Portugal style of writing and speaking. This website is specifically targetted to the European Portuguese with regular articles covering various topics. Each article contains a small section of text with audio, grammar highlights and questions.
