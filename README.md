@@ -18,7 +18,7 @@ A awesome list of resources to help learn the Portuguese language from Portugal.
 * [Memrise](https://www.memrise.com/courses/english/portuguese-portugal-2/) - A web and mobile application for learning vocabulary, drilling grammar, and training your ear to recognize European Portuguese. It has 10 levels and starts at A1 and goes to about B1 by the end.
 
 # Courses
-* [Camões Instituto](https://www.instituto-camoes.pt/en/activity-camoes/what-we-do/learn-portuguese) - the official language institute from Portugal. They provide self-learning and other premium online courses so you can learn from home at your own page.
+* [Camões Instituto](https://www.instituto-camoes.pt/en/activity-camoes/what-we-do/learn-portuguese) - the official language institute from Portugal. They provide self-learning and other premium online courses so you can learn from home at your own page. The self-learning course costs 180 euros for 12 weeks.
 
 # Contribution
 Contributions are welcome!
