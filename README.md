@@ -14,6 +14,7 @@ An awesome list of resources to help learn the Portuguese language from Portugal
 * [TVI](https://tviplayer.iol.pt/) - Watch live TV from one of Portugal's most popular private TV channels. From their official website you can watch live streams of their TVI and TVI24 channels. They also provide on demand content from their channel for free.
 
 # Training
+* [Drops](https://languagedrops.com/languages/learn-european-portuguese) - A stylish vocabulary building tool for iOS (including the iPhone, iPad, and Apple Watch) and Android devices. It uses a smart spaced-repetition algorithm that lets you spend much less time on words you've already mastered and more on those where you are weak. The audio is very clear and the European pronunciation is authentic-sounding.
 * [Quizlet](https://quizlet.com/) - A nice tool I have used for many years to build digital flashcards. You can create your own sets of cards or find existing ones from a very large collection. They have also a native Android / iOS apps so you can practice your sets when you have some free time. A nice feature is that they can generate games and tests based on your sets.
 * [Memrise](https://www.memrise.com/courses/english/portuguese-portugal-2/) - A web and mobile application for learning vocabulary, drilling grammar, and training your ear to recognize European Portuguese. It has 10 levels and starts at A1 and goes to about B1 by the end.
 
